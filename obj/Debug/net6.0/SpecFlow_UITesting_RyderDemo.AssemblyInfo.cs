@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpecFlow_UITesting_RyderDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+934604abadd0133bd56dc64f612ad8bb62504cd1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpecFlow_UITesting_RyderDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpecFlow_UITesting_RyderDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
